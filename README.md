@@ -27,5 +27,5 @@
 
 # 💡 Status :
 <div>
-  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorcsouzaa&layout=compact&langs_count=16&theme=prussian&cache_seconds=1" />
+  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorcsouzaa&layout=compact&langs_count=16&theme=prussian" />
 </div>

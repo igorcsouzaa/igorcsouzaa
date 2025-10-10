@@ -6,7 +6,7 @@
   📚 Estou em constante evolução, participando de projetos acadêmicos e pessoais que me ajudam a aprimorar minhas habilidades técnicas e criativas. <br>
 </p>
 
-# 💻 Habilidades :
+## 💻 Habilidades :
 <div style="display: inline_block"><br>
   <img align="center" alt="Igor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Igor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -15,17 +15,27 @@
   <img align="center" alt="Igor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Igor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Igor-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Igor-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
   
-  
- # 🔗 Redes :
+ ## 📖 Estudando :
+ <div>
+   <p align="justify">
+     Java
+   </p>
+   <p align="justify">
+     Power BI
+   </p> 
+ </div> 
+ 
+ ## 🔗 Redes :
 <div> 
   <a href="https://www.instagram.com/igorcsouzaa_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:igorcs1104@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/igor-correa-de-souza" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-# 💡 Status :
+## 💡 Status :
 <div>
   <img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorcsouzaa&layout=compact&langs_count=16&theme=prussian" />
 </div>

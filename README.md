@@ -21,7 +21,7 @@
  ## 📖 Estudando :
  <div>
    <p align="justify">
-     Java
+     Angular
    </p>
    <p align="justify">
      Power BI

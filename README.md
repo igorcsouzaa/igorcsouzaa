@@ -34,8 +34,3 @@
   <a href = "mailto:igorcs1104@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/igor-correa-de-souza" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-## 💡 Status :
-<div>
-  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorcsouzaa&layout=compact&langs_count=16&theme=prussian" />
-</div>

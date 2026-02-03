@@ -1,7 +1,7 @@
 # Olá, Eu sou o Igor!! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" />
 
 <p align="justify">
-  💻 Estou no 3º ano do curso técnico de Desenvolvimento de Sistemas na ETEC Profª Ilza Nascimento Pintus, e como desenvolvedor full-stack em formação crio sites e sistemas com interfaces modernas, intuitivas e funcionais.<br>
+  💻 Sou formado como técnico de Desenvolvimento de Sistemas na ETEC Profª Ilza Nascimento Pintus, e como desenvolvedor full-stack em formação crio sites e sistemas com interfaces modernas, intuitivas e funcionais.<br>
   🚀Tenho interesse em back-end, front-end e banco de dados, buscando sempre aprender novas tecnologias e boas práticas de desenvolvimento. <br>
   📚 Estou em constante evolução, participando de projetos acadêmicos e pessoais que me ajudam a aprimorar minhas habilidades técnicas e criativas. <br>
 </p>

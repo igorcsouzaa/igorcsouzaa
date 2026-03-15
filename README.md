@@ -17,16 +17,6 @@
   <img align="center" alt="Igor-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Igor-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
-  
- ## 📖 Estudando :
- <div>
-   <p align="justify">
-     Angular
-   </p>
-   <p align="justify">
-     Power BI
-   </p> 
- </div> 
  
  ## 🔗 Redes :
 <div> 

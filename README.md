@@ -1,4 +1,4 @@
-# Olá, Eu sou o Igor!! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" />
+# Olá, Eu sou o Igor!! 👋
 
 <p align="justify">
   💻 Sou formado como técnico de Desenvolvimento de Sistemas na ETEC Profª Ilza Nascimento Pintus e estudante de Desenvolvimento de Software Multiplataforma na Fatec Jacareí, e como desenvolvedor full-stack em formação crio sites e sistemas com interfaces modernas, intuitivas e funcionais.<br>
@@ -7,17 +7,16 @@
 </p>
 
 ## 💻 Habilidades :
-<div style="display: inline_block"><br>
-  <img align="center" alt="Igor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Igor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Igor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Igor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Igor-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Igor-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Igor-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Igor-Sql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg">
-  <img align="center" alt="Igor-Postgres" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
-</div>
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![C#](https://img.shields.io/badge/-csharp-333333?style=flat&logo=sharp)
+![C++](https://img.shields.io/badge/-cpp-333333?style=flat&logo=cplusplus)
+![PHP](https://img.shields.io/badge/-php-333333?style=flat&logo=php)
+![Git](https://img.shields.io/badge/-git-333333?style=flat&logo=git)
+![MySQL](https://img.shields.io/badge/-mysql-333333?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-postgres-333333?style=flat&logo=postgresql)
  
  ## 🔗 Redes :
 <div> 

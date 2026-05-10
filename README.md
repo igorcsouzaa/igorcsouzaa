@@ -8,7 +8,7 @@
 
 ## Sobre Mim
 
-Sou desenvolvedor de software que gosta de transformar ideias em produtos reais e funcionais. Atualmente cursando **Desenvolvimento de Software Multiplataforma (DSM) na FATEC**, com formação técnica em **Desenvolvimento de Sistemas pela ETEC**, e adquirindo experiência prática em um **estágio em desenvolvimento**.
+Sou desenvolvedor de software que gosta de transformar ideias em produtos reais e funcionais. Atualmente cursando **Desenvolvimento de Software Multiplataforma (DSM) na FATEC**, com formação técnica em **Desenvolvimento de Sistemas pela ETEC**, e adquirindo experiência prática com projetos pessoais, acadêmicos e dentro do estágio.
 
 Trabalho em todo o stack, desde a criação de interfaces até a integração de APIs e bancos de dados. Gosto de código legível, soluções práticas e projetos que de fato saem do papel.
 

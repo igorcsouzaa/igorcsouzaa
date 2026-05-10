@@ -27,7 +27,7 @@ Trabalho em todo o stack, desde a criação de interfaces até a integração de
 **Linguagens**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,cs,html,css,javascript,php,py,dart" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,javascript,php,py,dart" />
 </p>
 
 **Frameworks**

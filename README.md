@@ -1,9 +1,7 @@
-<h1 align="center">Hi, I'm Igor 💻</h1>
-
+<h1 align="center">Olá, eu sou o Igor 💻</h1>
 <p align="center">
-  <em>Multiplatform Software Development Student · Full-Stack Developer · Builder of things that work</em>
+  <em>Estudante de Desenvolvimento de Software Multiplataforma · Desenvolvedor Full-Stack · Construtor de coisas que funcionam</em>
 </p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/igor-correa-de-souza/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
@@ -12,67 +10,48 @@
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
+👨‍💻 Sobre Mim
+Sou desenvolvedor de software que gosta de transformar ideias em produtos reais e funcionais. Atualmente cursando Desenvolvimento de Software Multiplataforma (DSM) na FATEC, com formação técnica em Desenvolvimento de Sistemas pela ETEC, e adquirindo experiência prática através de um estágio em desenvolvimento.
+Trabalho em todo o stack, desde a criação de interfaces até a integração de APIs e bancos de dados. Gosto de código legível, soluções práticas e projetos que de fato saem do papel.
+🎓 Formação
 
----
+DSM - FATEC São José dos Campos: Sistemas multiplataforma, arquitetura de software e fluxos de desenvolvimento modernos.
+Técnico em Desenvolvimento de Sistemas - ETEC: Lógica, algoritmos, tecnologias web e bancos de dados.
+Estágio em Desenvolvimento: Experiência real no mercado, entregando funcionalidades e mantendo aplicações em ambiente profissional.
 
-### 👨‍💻 About Me
+🛠️ Com o que eu trabalho
 
-I'm a software developer who enjoys turning ideas into real, functional products. Currently studying **Multiplatform Software Development (DSM) at FATEC**, with a technical background in **Systems Development from ETEC**, and currently gaining hands-on experience through a **development internship**.
+Frontend: Interfaces responsivas e bem estruturadas com HTML, CSS e JavaScript
+Backend: Lógica server-side e APIs REST com PHP e Python Flask
+Sistemas: Experiência em programação de mais baixo nível com C# e C++
+Mobile e Cross-Platform: Aplicativos multiplataforma com Flutter e Dart
+Dados: Modelagem e consulta de bancos de dados relacionais com SQL
+Workflow: Controle de versão e colaboração com Git
 
-I work across the full stack, from crafting interfaces to wiring up APIs and databases. I like code that's readable, solutions that are practical, and projects that actually ship.
-
----
-
-### 🎓 Background
-
-* **DSM - FATEC São José dos Campos:** Cross-platform systems, software architecture, and modern dev workflows.
-* **Técnico em Desenvolvimento de Sistemas - ETEC:** Logic, algorithms, web technologies, and databases.
-* **Software Internship:** Real-world development experience, delivering features and maintaining applications in a professional environment.
-
----
-
-### 🛠️ What I Work With
-
-* **Frontend:** Responsive and structured UIs with **HTML, CSS, and JavaScript**
-* **Backend:** Server-side logic and REST APIs with **PHP** and **Python Flask**
-* **Systems:** Lower-level programming experience in **C#** and **C++**
-* **Mobile & Cross-Platform:** Multi-platform apps with **Flutter** and **Dart**
-* **Data:** Relational database design and querying with **SQL**
-* **Workflow:** Version control and collaboration with **Git**
-
----
-
-### ⚙️ Technologies & Tools
-
-**Languages:**
+⚙️ Tecnologias e Ferramentas
+Linguagens:
 <p>
   <a href="https://github.com/seu-usuario">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,javascript,php,py,dart" />
+    <img src="https://skillicons.dev/icons?i=cpp,cs,html,css,javascript,php,py,dart" />
   </a>
 </p>
-
-**Frameworks:**
+Frameworks:
 <p>
   <a href="https://github.com/seu-usuario">
     <img src="https://skillicons.dev/icons?i=electron,dotnet,nodejs,flutter,qt" />
   </a>
 </p>
-
-**Infrastructure & Databases:**
+Infraestrutura e Bancos de Dados:
 <p>
   <a href="https://github.com/seu-usuario">
     <img src="https://skillicons.dev/icons?i=docker,vercel,postgres,mysql,git,github" />
   </a>
 </p>
+🎯 O que me motiva
 
----
+🌐 Visão Full-Stack: Gosto de ter domínio nos dois lados de uma funcionalidade, do que o usuário vê até como os dados trafegam.
+📱 Apps multiplataforma: Construir coisas que funcionam na web, no mobile e no desktop sem duplicar tudo.
+🔗 Integrações e APIs: Fazer sistemas se comunicarem de forma limpa tem uma satisfação difícil de explicar.
 
-### 🎯 What Gets Me Going
 
-- 🌐 **Full-Stack thinking:** I like owning both ends of a feature, from what the user sees to how the data moves.
-- 📱 **Cross-platform apps:** Building things that work on web, mobile, and desktop without duplicating everything.
-- 🔗 **Integrations & APIs:** Making systems talk to each other cleanly is oddly satisfying.
-
----
-
-> *I don't just write code, I build stuff I'd actually want to use.*
+Não escrevo só código, eu construo coisas que eu mesmo usaria.

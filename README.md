@@ -33,7 +33,7 @@ Trabalho em todo o stack, desde a criação de interfaces até a integração de
 **Frameworks**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=electron,dotnet,nodejs,flutter,qt" />
+  <img src="https://skillicons.dev/icons?i=electron,react,dotnet,nodejs,flutter,qt" />
 </p>
 
 **Infraestrutura e Dados**

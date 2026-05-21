@@ -56,9 +56,11 @@ Trabalho em todo o stack, desde a criação de interfaces até a integração de
 
 ## 🌐 Site Pessoal
 
-<a href="https://igorsouzadev.vercel.app/" target="_blank">
-  <img src="./assets/site-preview.png" alt="igorsouzadev.vercel.app" width="100%" />
-</a>
+<p>
+  <a href="https://igorsouzadev.vercel.app/">
+    <img src="https://img.shields.io/badge/igorsouzadev.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Site Pessoal" />
+  </a>
+</p>
 
 ---
 ## Entre em Contato
